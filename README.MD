@@ -7,8 +7,10 @@ xband_sak is an [Everdrive MD](https://segaretro.org/Everdrive_MD "Everdrive MD"
 - flash ROM with modified XBAND hardware
 - hex-viewer
 
+![xband_sak](https://user-images.githubusercontent.com/37120278/167273668-0532d905-e863-443a-8aa6-c33402b1d98c.gif)
+
 ****
-##### How to use:
+### How to use:
 Usage should be pretty much self-explanatory.
 
 Copy the binary to the FAT-formatted sd-card and start the application from the Everdrive menu.
@@ -18,9 +20,10 @@ Currently AM29F400BB/BT is supported, adding support for other types should be f
 
 Don't forget the two missing 10k SMD resistors!
 ****
-##### Based on work from:
+### Based on work from:
 Krikzz - https://github.com/krikzz
+
 Stephane-D - https://github.com/Stephane-D/SGDK
 
-##### Using FatFs from:
+### Using FatFs from:
 ChaN - http://elm-chan.org/fsw/ff/00index_e.htmls
