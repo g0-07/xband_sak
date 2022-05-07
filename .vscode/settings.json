@@ -1,0 +1,6 @@
+{ 
+    "C_Cpp.default.includePath": ["res",
+    "inc"
+],
+"git.enabled": true
+}
