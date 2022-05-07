@@ -18,12 +18,12 @@ Copy the binary to the FAT-formatted sd-card and start the application from the 
 To use the flash function you need to desolder the stock ROM and replace it with a flash ROM.
 Currently AM29F400BB/BT is supported, adding support for other types should be fairly straightforward, as long as there's no special programming voltage needed.
 
-Don't forget the two missing 10k SMD resistors!
+Don't forget the two missing 10kΩ SMD resistors!
 ****
 ### Based on work from:
 Krikzz - https://github.com/krikzz
 
-Stephane-D - https://github.com/Stephane-D/SGDK
+Stephane-D - https://github.com/Stephane-D
 
 ### Using FatFs from:
 ChaN - http://elm-chan.org/fsw/ff/00index_e.htmls
